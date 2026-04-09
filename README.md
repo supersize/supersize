@@ -1,16 +1,33 @@
-## Hi there 👋
+# Kim, Jae Hyeong
 
-<!--
-**supersize/supersize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### fullstack & Cloud-Native Engineer
+- 4 years of professional experience in Web Development.
+- Certified Kubernetes Administrator (CKA).
+- Specialized in Infrastructure as Code (Terraform) and Scalable Backend Systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+<a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/b1160b4e-b85a-4c7c-a1d1-9f754a411be9-jae-hyeong-kim-11172d55-70f8-4033-9653-f33014825b42-certificate.pdf">
+  <img src="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/b1160b4e-b85a-4c7c-a1d1-9f754a411be9-jae-hyeong-kim-11172d55-70f8-4033-9653-f33014825b42-certificate.pdf" width="120" alt="CKA Certification">
+</a>
+**Certified Kubernetes Administrator (CKA)**
+*The Linux Foundation*
+
+---
+
+## Featured Project: Budget Tool
+**A scalable personal finance management system focusing on high-availability infrastructure.**
+
+- **Technical Highlights:**
+  - Automated CI/CD pipelines with GitHub Actions and Docker.
+  - Infrastructure provisioning managed via Terraform on AWS.
+  - System reliability verified through rigorous k6 load testing.
+- **Links:** [Repository](https://github.com/supersize/budgetTool) | [Live Demo](https://jhkarchive.com)
+
+---
+
+## Technical Skills
+- **Languages & Frameworks:** Java, Spring Boot, JPA, Querydsl
+- **Infrastructure:** Kubernetes (CKA), Terraform, Docker, AWS
+- **Data & Middleware:** PostgreSQL, Redis, Redisson
