@@ -9,7 +9,7 @@
 
 ## Certifications
 <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/b1160b4e-b85a-4c7c-a1d1-9f754a411be9-jae-hyeong-kim-11172d55-70f8-4033-9653-f33014825b42-certificate.pdf">
-  <img src="https://github.com/supersize/supersize/blob/main/jae-hyeong-kim-cka-certificate.pdf" width="120" alt="CKA Certification">
+  <img src="https://github.com/supersize/supersize/raw/main/cka-certificate.png" width="300" alt="CKA Certification">
 </a>
 **Certified Kubernetes Administrator (CKA)**
 *The Linux Foundation*
